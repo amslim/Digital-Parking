@@ -3,7 +3,11 @@ A digital parking website with various functionalities such as choosing slots an
 
 
 
+
+
 We've created this sample Digital Parking Website using HTML, CSS, Js and PHP. In this smaple we've used the location parking slots of Sharda University. This is dynamic website which was tested on XAMPP platform for it's backend functionality which includes registration, logging in and parking confirmation.
+
+
 
 
 
@@ -22,9 +26,11 @@ It's working is as follows:
 
 
 
+
+
 NOTE: 
 -The database must be attached connected with these webpages in order to make them dynamically funtional. There is no inbuilt database as it was tested on XAMPP application. The dbcon.php file was used for connetcing the webpages with the database.
 
 -The locations given in the project are just taken for example.
 
--This project contains some elements such as fonts, icons and themes which are availabe online.
+-This project contains some elements such as fonts, icons and themes which are availabe online and can be customized based on personal prefrence.
