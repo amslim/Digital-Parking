@@ -1,0 +1,1 @@
+A JS script for smooth scrolling is used here.
